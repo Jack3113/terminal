@@ -7,6 +7,10 @@ A funny (false) terminal in JavaScript
 
 ## Help
 
+### ASCII
+
+Thank to [patorjk.com](http://patorjk.com/software/taag/#p=display&h=0&v=0&f=Doh&t=HackTerm)
+
 ### Commands available
 
 - alert
